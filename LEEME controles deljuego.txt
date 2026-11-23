@@ -1,0 +1,7 @@
+
+
+Controles:
+  Flecha arriba = izquierda
+  Espacio       = derecha
+  V o P         = saltar
+
